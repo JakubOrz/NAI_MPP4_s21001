@@ -1,0 +1,4 @@
+# NAI_MPP4_s21001
+MPP4
+
+odpalanie python3 main.py scieżka_do_danych_treningowych ścieżka_do_słownika_wyrazów
